@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/phpfox-mobile/ios-phpfox-jitsi-sdk'
   s.license          = 'MIT'
   s.authors          = 'Thien Nguyen'
-  s.source           = { :git => 'https://github.com/phpfox-mobile/ios-phpfox-jitsi-sdk', :tag => s.version }
+  s.source           = { :git => 'https://github.com/phpfox-mobile/ios-phpfox-jitsi-sdk.git', :tag => s.version }
 
   s.platform         = :ios, '11.0'
 
